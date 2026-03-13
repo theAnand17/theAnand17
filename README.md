@@ -1,107 +1,41 @@
-# Satyam Anand
+# Hi, I'm Satyam 👋
 
-AI Product Manager building intelligent SaaS systems and automation platforms.
+I build AI products that solve real operational problems —
+from multimodal compliance validation at enterprise scale
+to RAG-based knowledge search used across enterprise teams.
 
-I build intelligent systems that automate operational workflows, unlock organizational knowledge, and turn data into actionable insights. My work blends **product thinking, AI architectures, and engineering execution** to create scalable enterprise tools.
-
-Currently building and scaling **AI products for retail and enterprise SaaS platforms.**
-
----
-
-## Selected Case Studies
-
-### Visual Compliance AI
-Retail audit automation powered by AI image analysis.
-
-98% reduction in audit turnaround  
-90%+ fraud detection accuracy  
-Deployed across 1,000+ retail locations  
-
-→ Case Study  
-https://satyam-anand-portfolio.vercel.app/#project-proj-1
+Previously built cross-platform automation infrastructure for large SaaS systems.
 
 ---
 
-### RevOps Platform
-Revenue operations automation for SaaS organizations.
-
-Replaced spreadsheet-based billing workflows across two legal entities.  
-Created a single source of truth for Finance, Sales, and Customer Success teams.
-
-→ Case Study  
-https://satyam-anand-portfolio.vercel.app/#project-proj-2
+## What I work on
+- 🤖 Multimodal AI systems for real-world operational compliance
+- 🔍 RAG-based knowledge retrieval and semantic search
+- ⚙️ Internal SaaS tooling that replaces manual workflows
+- 🧪 Cross-platform test automation infrastructure
 
 ---
 
-### Knowledge AI Platform
-Semantic search and organizational intelligence.
+## Work
 
-Reduced information retrieval time from **15 minutes to under 10 seconds**.  
-Permission-aware enterprise knowledge search deployed across mobile platforms.
+**🏪 Visual Compliance AI**
+AI-powered retail audit automation. 98% faster turnaround · 90%+ fraud detection · deployed across 1,000+ retail locations.
+→ https://satyam-anand-portfolio.vercel.app/#project-proj-1
 
-→ Case Study  
-https://satyam-anand-portfolio.vercel.app/#project-proj-3
+**💰 RevOps Platform**
+Replaced spreadsheet billing with automated revenue operations across two legal entities, creating a shared source of truth for finance and customer teams.
+→ https://satyam-anand-portfolio.vercel.app/#project-proj-2
 
----
+**🧠 Knowledge AI Platform**
+RAG-based semantic search system reducing information retrieval from 15 minutes to under 10 seconds. Available on iOS and Android.
+→ https://satyam-anand-portfolio.vercel.app/#project-proj-3
 
-### QA Automation Suite
-Cross-platform testing architecture for SaaS applications.
-
-Unified **Web, Android, and iOS** testing under a single automation framework.  
-Still the active foundation powering regression testing across the platform.
-
-→ Case Study  
-https://satyam-anand-portfolio.vercel.app/#project-proj-4
+**🛠️ QA Automation Suite**
+Unified Web, Android, and iOS testing under a single automation framework that still powers regression testing today.
+→ https://satyam-anand-portfolio.vercel.app/#project-proj-4
 
 ---
 
-## Technical Focus
-
-### AI Systems
-LLMs  
-RAG Architectures  
-Vector Search  
-Semantic Retrieval  
-Prompt Engineering  
-AWS Bedrock
-
-### Product Development
-Product Strategy  
-Roadmapping  
-Adoption Metrics (MAU / DAU)  
-GTM Strategy  
-Customer Discovery
-
-### Engineering
-Automation Architecture  
-Selenium  
-Appium  
-Java  
-BDD Cucumber
-
-### Infrastructure
-AWS  
-AI Inference Scaling  
-API Integrations
-
----
-
-## Portfolio
-
-Full portfolio and detailed case studies:
-
-https://satyam-anand-portfolio.vercel.app
-
----
-
-## Connect
-
-LinkedIn  
-https://linkedin.com/in/satyam-anand
-
-GitHub  
-https://github.com/theAnand17
-
----
-
-Building systems where **AI meets real operational problems.**
+## Stack
+LLMs · RAG · Vector Search · Prompt Engineering · AWS Bedrock
+Python · Java · Selenium · Appium · API Integrations
