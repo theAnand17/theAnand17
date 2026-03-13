@@ -6,7 +6,6 @@ to RAG-based knowledge search used across enterprise teams.
 
 Previously built cross-platform automation infrastructure for large SaaS systems.
 
----
 
 ## What I work on
 - 🤖 Multimodal AI systems for real-world operational compliance
@@ -14,7 +13,6 @@ Previously built cross-platform automation infrastructure for large SaaS systems
 - ⚙️ Internal SaaS tooling that replaces manual workflows
 - 🧪 Cross-platform test automation infrastructure
 
----
 
 ## Work
 
@@ -34,7 +32,6 @@ RAG-based semantic search system reducing information retrieval from 15 minutes 
 Unified Web, Android, and iOS testing under a single automation framework that still powers regression testing today.
 → https://satyam-anand-portfolio.vercel.app/#project-proj-4
 
----
 
 ## Stack
 LLMs · RAG · Vector Search · Prompt Engineering · AWS Bedrock
